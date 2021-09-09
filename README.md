@@ -3,7 +3,6 @@
 ##Welcome to the official AstroARK Development Github Account.
 
 
-###Intrests
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289d9?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289d9)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-5382a1?style=for-the-badge&labelColor=black&logo=java&logoColor=5382a1)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
@@ -19,8 +18,6 @@
     Social Media
   </summary>
   
-  #### GitHub Statistiken
-  ![AstroARK GitHub Stats](https://github-readme-stats.vercel.app/api?username=astroark&count_private=true&theme=tokyonight&hide=contribs,prs)
   
 </details>
 
