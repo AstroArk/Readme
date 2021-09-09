@@ -11,15 +11,8 @@
 
 
 
-## Social-Media 📱
 
 
-<details>
   
-  <summary>
-    Social Media
-  </summary>
-  
-  
-</details>
+
 
