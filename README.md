@@ -20,7 +20,7 @@
   </summary>
   
   #### GitHub Statistiken
-  ![AstroARK GitHub Stats](https://github-readme-stats.vercel.app/api?username=astroarkt&count_private=true&theme=tokyonight&hide=contribs,prs)
+  ![AstroARK GitHub Stats](https://github-readme-stats.vercel.app/api?username=astroark&count_private=true&theme=tokyonight&hide=contribs,prs)
   
 </details>
 
